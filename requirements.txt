@@ -8,3 +8,4 @@ joblib==1.5.3
 lime==0.2.0.1
 shap==0.50.0
 streamlit>=1.36.0
+tensorflow
